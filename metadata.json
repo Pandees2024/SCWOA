@@ -1,0 +1,8 @@
+
+{
+  "name": "FOA Elite Portal",
+  "description": "A comprehensive Owners Association management portal for high-end residential layouts featuring villa management, member dashboards, and AI-powered resident assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
